@@ -9,7 +9,7 @@
       <LocalizedName description="DCE PCF Components" languagecode="1033" />
     </LocalizedNames>
     <Descriptions />
-    <Version>1.1.2.0</Version>
+    <Version>1.1.2.1</Version>
     <!-- Solution Package Type: Unmanaged(0)/Managed(1)/Both(2)-->
     <Managed>2</Managed>
     <Publisher>
@@ -22,7 +22,7 @@
       <Descriptions>
         <!-- Description of Cds Publisher in language code -->
         <Description
-          description="DynamicsCrmExp PCF Components Library.&#xA;- PolyLookup v1.8.0&#xA;- Lookdown v1.4.0&#xA;- TimePicker v1.0.5&#xA;&#xA;For documentation and configuration, please visit: https://github.com/khoait/DCE.PCF/wiki&#xA;&#xA;For feedback and report issues, please visit: https://github.com/khoait/DCE.PCF/issues"
+          description="DynamicsCrmExp PCF Components Library.&#xA;- PolyLookup v1.9.0 (Selected Items View, unofficial patch)&#xA;- Lookdown v1.4.0&#xA;- TimePicker v1.0.5&#xA;&#xA;For documentation and configuration, please visit: https://github.com/khoait/DCE.PCF/wiki&#xA;&#xA;For feedback and report issues, please visit: https://github.com/khoait/DCE.PCF/issues"
           languagecode="1033" />
       </Descriptions>
       <EMailAddress xsi:nil="true"></EMailAddress>
